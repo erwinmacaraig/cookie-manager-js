@@ -1,2 +1,2 @@
 # cookie-manager-js
-Lightweight, simple and easy cookie management library in Javascripty
+Lightweight, simple and easy cookie management library in Javascript
