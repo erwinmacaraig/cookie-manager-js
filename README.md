@@ -75,4 +75,4 @@ Clears all of the existing cookies
 ```
 
 ## Author and License 
-Created and maintained by [erwinmacaraig] under [MIT](License.md) License
+Created and maintained by [erwinmacaraig](https://github.com/erwinmacaraig) under [MIT](License.md) License
